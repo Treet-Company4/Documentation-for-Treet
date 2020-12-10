@@ -6,7 +6,7 @@ Shows the file structure of the repository. Highlights the most important files 
 
 * Documentation
   * Architecture
-    *[Architecture_Notebook_v1.0.pdf](https://github.com/Treet-Company4/documentation_Treet/blob/main/Documentation/Architecture/Architecture_Notebook_v1.0.pdf)
+    * [Architecture_Notebook_v1.0.pdf](https://github.com/Treet-Company4/documentation_Treet/blob/main/Documentation/Architecture/Architecture_Notebook_v1.0.pdf)
   * Design & Prototype
     * [Prototype_6.0.pdf](https://github.com/Treet-Company4/documentation_Treet/blob/main/Documentation/Design%20%26%20Prototypes/Prototype_6.0.pdf)
     * Older design prototypes
